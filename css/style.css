@@ -1,0 +1,50 @@
+
+/* FEEDS LIST */
+.data_wrap {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px 15px;
+    width: 98%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+.data_line {
+    margin-bottom: 20px;
+}
+.data_photo {
+    
+}
+    .data_photo img {
+          border: 1px solid #ccc;
+          border-radius:5px;
+          padding: 5px;
+    }
+    .data_photo li strong {
+        display: block;
+        min-width: 100px;
+        float: left;
+    }
+.data_raw {
+    margin-top: 10px;
+}
+    .data_raw .hide {
+        width: 98%;
+        float: right;
+    }
+.data_error {
+    font-weight: bold;
+    color: red;
+}
+    
+/* FEEDS LIST */    
+/*
+.feed_list li {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 10px;
+    padding: 5px 10px;
+}
+.feed_list li:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+}
+*/
